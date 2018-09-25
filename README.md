@@ -1,2 +1,2 @@
 # CS2040C-PS
-All PS
+All PS code for CS2040C
