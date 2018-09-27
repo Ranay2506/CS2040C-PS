@@ -34,7 +34,6 @@ int main() {
 			}
 			//cout << *it << endl;
 		}
-		//splitinput.reverse();
 		for (auto v : splitinput) {
 			cout << v;
 		}
